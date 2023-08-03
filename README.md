@@ -1,0 +1,3 @@
+# Password Verification
+
+This is a simple python script to check if the user has submitted the correct password. The password is stored in a text file and the user is prompted to enter the password. If the password is correct, the user is granted access to the program. If the password is incorrect, the user is prompted to enter the password again. The user is given 3 attempts to enter the correct password. If the user fails to enter the correct password after 3 attempts, the program will terminate.
